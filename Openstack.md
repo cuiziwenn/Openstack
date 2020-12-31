@@ -1,6 +1,7 @@
 正文
 
 一、openstack由来 　　
+
 openstack最早由美国国家航空航天局NASA研发的Nova和Rackspace研发的swift组成。后来以apache许可证授权,旨在为公共及私有云平台建设。openstack主要用来为企业内部实现类似于Amazon EC2和S3的云基础架构服务（Iaas）.每6个月更新一次，基本与ubuntu同步，命名是以A-Z作为首字母来的。
 
 二、openstack项目与组件（服务名是项目名的别名）
@@ -63,9 +64,9 @@ openstack最早由美国国家航空航天局NASA研发的Nova和Rackspace研发
 三、openstack各组件详解及运行流程
 
 1、各组件逻辑关系图 　　
-https://github.com/cuiziwenn/Openstack/blob/main/Openstck%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B.png
+![imags](https://github.com/cuiziwenn/Openstack/blob/main/Openstck%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B.png)
 2、openstack新建云主机流程图
-https://github.com/cuiziwenn/Openstack/blob/main/Openstack%E6%96%B0%E5%BB%BA%E4%B8%BB%E6%9C%BA%E6%B5%81%E7%A8%8B.png
+![imags](https://github.com/cuiziwenn/Openstack/blob/main/Openstack%E6%96%B0%E5%BB%BA%E4%B8%BB%E6%9C%BA%E6%B5%81%E7%A8%8B.png)
 3、虚拟机启动过程 
 1.界面或命令行通过RESTful API向keystone获取认证信息。
 
