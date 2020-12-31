@@ -65,9 +65,13 @@ openstack最早由美国国家航空航天局NASA研发的Nova和Rackspace研发
 
 1、各组件逻辑关系图 　　
 ![imags](https://github.com/cuiziwenn/Openstack/blob/main/Openstck%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B.png)
+
 2、openstack新建云主机流程图
+
 ![imags](https://github.com/cuiziwenn/Openstack/blob/main/Openstack%E6%96%B0%E5%BB%BA%E4%B8%BB%E6%9C%BA%E6%B5%81%E7%A8%8B.png)
+
 3、虚拟机启动过程 
+
 1.界面或命令行通过RESTful API向keystone获取认证信息。
 
 2.keystone通过用户请求认证信息，并生成auth-token返回给对应的认证请求。
