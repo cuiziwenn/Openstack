@@ -159,3 +159,7 @@ openstack最早由美国国家航空航天局NASA研发的Nova和Rackspace研发
 
 
 29)nova-compute根据instance的信息调用配置的虚拟化驱动来创建虚拟机。
+
+
+
+转载：https://www.cnblogs.com/chenfuhai/p/13184449.html
