@@ -64,6 +64,7 @@ openstack最早由美国国家航空航天局NASA研发的Nova和Rackspace研发
 三、openstack各组件详解及运行流程
 
 1、各组件逻辑关系图 　　
+
 ![imags](https://github.com/cuiziwenn/Openstack/blob/main/Openstck%E8%BF%90%E8%A1%8C%E6%B5%81%E7%A8%8B.png)
 
 2、openstack新建云主机流程图
